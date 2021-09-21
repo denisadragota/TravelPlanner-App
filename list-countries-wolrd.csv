@@ -1,0 +1,246 @@
+Rank,Country (or dependent territory),Population,Date,% of world
+,,,,population
+0,World,"7,13,50,00,000",4-Jan-14,100%
+1,China,"1,36,20,10,000",4-Jan-14,19.10%
+2,India,"1,23,85,70,000",4-Jan-14,17.40%
+3,United States,"31,74,00,000",4-Jan-14,4.45%
+4,Indonesia,"24,98,66,000",1-Jul-13,3.50%
+5,Brazil,"20,10,32,714",1-Jul-13,2.82%
+6,Pakistan,"18,52,56,000",4-Jan-14,2.60%
+7,Nigeria,"17,36,15,000",1-Jul-13,2.43%
+8,Bangladesh,"15,25,18,015",16-Jul-12,2.14%
+9,Russia,"14,36,00,000",1-Nov-13,2.01%
+10,Japan,"12,72,70,000",1-Dec-13,1.78%
+11,Mexico,"11,83,95,054",1-Jul-13,1.66%
+12,Philippines,"9,89,15,000",4-Jan-14,1.39%
+13,Vietnam,"9,03,88,000",1-Nov-13,1.27%
+14,Ethiopia,"8,66,13,986",1-Jul-13,1.21%
+15,Egypt,"8,36,61,000",1-Jan-13,1.17%
+16,Germany,"8,05,86,000",30-Jun-13,1.13%
+17,Iran,"7,71,12,000",4-Jan-14,1.08%
+18,Turkey,"7,56,27,384",31-Dec-12,1.06%
+19,Democratic Republic of the Congo,"6,75,14,000",1-Jul-13,0.95%
+20,Thailand,"6,59,26,261",1-Sep-10,0.92%
+21,France,"6,58,34,000",1-Nov-13,0.92%
+22,United Kingdom,"6,37,05,000",1-Jul-12,0.89%
+23,Italy,"5,99,01,141",31-Jul-13,0.84%
+24,Burma,"5,32,59,000",1-Jul-13,0.75%
+25,South Africa,"5,29,81,991",1-Jul-13,0.74%
+26,South Korea,"5,02,19,669",1-Jul-13,0.70%
+27,Colombia,"4,74,01,000",4-Jan-14,0.66%
+28,Spain,"4,67,04,314",1-Jan-13,0.65%
+29,Ukraine,"4,54,47,010",1-Nov-13,0.64%
+30,Tanzania,"4,49,28,923",26-Aug-12,0.63%
+31,Kenya,"4,43,54,000",1-Jul-13,0.62%
+32,Argentina,"4,01,17,096",27-Oct-10,0.56%
+33,Algeria,"3,87,00,000",1-Jan-14,0.54%
+34,Poland,"3,85,02,396",30-Jun-13,0.37%
+35,Sudan,"3,79,64,000",1-Jul-13,0.53%
+36,Uganda,"3,53,57,000",1-Jul-13,0.50%
+37,Canada,"3,52,95,770",1-Oct-13,0.49%
+38,Iraq,"3,40,35,000",1-Jul-12,0.48%
+39,Morocco,"3,31,32,100",4-Jan-14,0.46%
+40,Peru,"3,04,75,144",30-Jun-13,0.43%
+41,Uzbekistan,"3,01,83,400",1-Jul-13,0.42%
+42,Saudi Arabia,"2,99,94,272",1-Jul-13,0.42%
+43,Malaysia,"2,99,50,000",4-Jan-14,0.42%
+44,Venezuela,"2,89,46,101",30-Oct-11,0.41%
+45,Nepal,"2,64,94,504",22-Jun-11,0.37%
+46,Afghanistan,"2,55,00,100",1-Jan-13,0.36%
+47,Yemen,"2,52,35,000",1-Jul-13,0.35%
+48,North Korea,"2,48,95,000",1-Jul-13,0.35%
+49,Ghana,"2,46,58,823",26-Sep-10,0.35%
+50,Mozambique,"2,37,00,715",1-Jul-12,0.33%
+51,Taiwan,"2,33,67,320",30-Nov-13,0.33%
+52,Australia,"2,33,35,808",4-Jan-14,0.33%
+53,Ivory Coast,"2,32,02,000",1-Jul-12,0.33%
+54,Syria,"2,18,98,000",1-Jul-13,0.31%
+55,Madagascar,"2,12,63,403",1-Jul-12,0.30%
+56,Angola,"2,06,09,294",1-Jul-12,0.29%
+57,Cameroon,"2,03,86,799",1-Jul-12,0.29%
+58,Sri Lanka,"2,02,77,597",21-Mar-12,0.28%
+59,Romania,"2,01,21,641",20-Oct-11,0.28%
+60,Burkina Faso,"1,73,22,796",1-Jul-13,0.24%
+61,Niger,"1,71,29,076",10-Dec-12,0.24%
+62,Kazakhstan,"1,70,99,000",1-Oct-13,0.24%
+63,Netherlands,"1,68,32,700",4-Jan-14,0.24%
+64,Chile,"1,66,34,603",9-Apr-12,0.23%
+65,Malawi,"1,63,63,000",1-Jul-13,0.23%
+66,Ecuador,"1,56,49,100",4-Jan-14,0.22%
+67,Guatemala,"1,54,38,384",30-Jun-13,0.22%
+68,Mali,"1,53,02,000",1-Jul-13,0.21%
+69,Cambodia,"1,51,35,000",1-Jul-13,0.21%
+70,Senegal,"1,35,67,338",1-Jul-13,0.19%
+71,Zambia,"1,30,92,666",16-Oct-10,0.18%
+72,Zimbabwe,"1,29,73,808",17-Aug-12,0.18%
+73,Chad,"1,28,25,000",1-Jul-13,0.18%
+74,South Sudan,"1,12,96,000",1-Jul-13,0.16%
+75,Belgium,"1,11,80,320",1-Nov-13,0.16%
+76,Cuba,"1,11,67,325",15-Sep-12,0.16%
+77,Tunisia,"1,08,33,431",1-Jan-13,0.15%
+78,Guinea,"1,08,24,200",1-Jul-10,0.15%
+79,Greece,"1,08,15,197",24-May-11,0.15%
+80,Portugal,"1,04,87,289",31-Dec-12,0.15%
+81,Rwanda,"1,05,37,222",15-Aug-12,0.15%
+82,Czech Republic,"1,05,13,800",30-Sep-13,0.15%
+83,Somalia,"1,04,96,000",1-Jul-13,0.15%
+84,Haiti,"1,04,13,211",1-Jul-12,0.15%
+85,Benin,"1,03,23,000",1-Jul-13,0.14%
+86,Burundi,"1,01,63,000",1-Jul-13,0.14%
+87,Bolivia,"1,00,27,254",21-Nov-12,0.14%
+88,Hungary,"99,06,000",1-Jan-13,0.14%
+89,Sweden,"96,33,490",31-Oct-13,0.13%
+90,Belarus,"94,67,200",1-Nov-13,0.13%
+91,Dominican Republic,"94,45,281",1-Dec-10,0.13%
+92,Azerbaijan,"92,35,100",1-Jan-12,0.13%
+93,Honduras,"85,55,072",1-Jul-13,0.12%
+94,Austria,"85,01,502",1-Oct-13,0.12%
+95,United Arab Emirates,"82,64,070",1-Jul-10,0.12%
+96,Israel,"81,32,000",29-Dec-13,0.11%
+97,Switzerland,"81,12,200",30-Sep-13,0.11%
+98,Tajikistan,"80,00,000",1-Apr-13,0.11%
+99,Bulgaria,"72,82,041",31-Dec-12,0.10%
+100,Hong Kong (China),"71,84,000",1-Jul-13,0.10%
+101,Serbia,"71,81,505",1-Jan-13,0.10%
+102,Papua New Guinea,"70,59,653",10-Jul-11,0.10%
+103,Paraguay,"67,83,374",2013,0.09%
+104,Laos,"65,80,800",1-Jul-13,0.09%
+105,Jordan,"65,31,200",4-Jan-14,0.09%
+106,El Salvador,"63,40,000",1-Jul-13,0.09%
+107,Eritrea,"63,33,000",1-Jul-13,0.09%
+108,Libya,"62,02,000",1-Jul-13,0.09%
+109,Togo,"61,91,155",6-Nov-10,0.09%
+110,Sierra Leone,"61,90,280",2013,0.09%
+111,Nicaragua,"60,71,045",30-Jun-12,0.09%
+112,Kyrgyzstan,"57,47,000",1-Oct-13,0.08%
+113,Denmark,"56,23,501",1-Oct-13,0.08%
+114,Finland,"54,49,657",30-Nov-13,0.08%
+115,Slovakia,"54,12,008",30-Jun-13,0.08%
+116,Singapore,"53,99,200",1-Jul-13,0.08%
+117,Turkmenistan,"52,40,000",1-Jul-13,0.07%
+118,Norway,"50,96,300",1-Oct-13,0.07%
+119,Lebanon,"48,22,000",1-Jul-13,0.07%
+120,Costa Rica,"46,67,096",1-Jul-13,0.07%
+121,Central African Republic,"46,16,000",1-Jul-13,0.07%
+122,Ireland,"45,93,100",1-Apr-13,0.06%
+123,Georgia,"44,83,800",1-Jan-13,0.06%
+124,New Zealand,"45,04,860",4-Jan-14,0.06%
+125,Republic of the Congo,"44,48,000",1-Jul-13,0.06%
+126,Palestine,"44,20,549",1-Jul-13,0.06%
+127,Liberia,"42,94,000",1-Jul-13,0.06%
+128,Croatia,"42,90,612",31-Mar-11,0.06%
+129,Oman,"39,29,000",28-Sep-13,0.05%
+130,Bosnia and Herzegovina,"37,91,622",15-Oct-13,0.05%
+131,Puerto Rico,"36,15,086",1-Jul-13,0.05%
+132,Kuwait,"35,82,054",31-Dec-10,0.05%
+133,Moldov,"35,59,500",1-Jan-13,0.05%
+134,Mauritania,"34,61,041",1-Jul-13,0.05%
+135,Panama,"34,05,813",16-May-10,0.05%
+136,Uruguay,"32,86,314",30-Sep-11,0.05%
+137,Armenia,"30,24,100",1-Jul-12,0.04%
+138,Lithuania,"29,45,951",1-Dec-13,0.04%
+139,Albania,"28,21,977",1-Oct-11,0.04%
+140,Mongolia,"27,54,685",11-Nov-10,0.04%
+141,Jamaica,"27,11,476",31-Dec-12,0.04%
+142,Namibia,"21,13,077",28-Aug-11,0.03%
+143,Lesotho,"20,74,000",1-Jul-13,0.03%
+144,Qatar,"20,68,050",30-Nov-13,0.03%
+145,Macedonia,"20,62,294",31-Dec-12,0.03%
+146,Slovenia,"20,61,171",4-Jan-14,0.03%
+147,Botswana,"20,24,904",22-Aug-11,0.03%
+148,Latvia,"20,08,700",1-Nov-13,0.03%
+149,Gambia,"18,49,000",1-Jul-13,0.03%
+150,Kosovo,"18,15,606",31-Dec-12,0.03%
+151,Guinea-Bissau,"17,04,000",1-Jul-13,0.02%
+152,Gabon,"16,72,000",1-Jul-13,0.02%
+153,Equatorial Guinea,"16,22,000",1-Jul-10,0.02%
+154,Trinidad and Tobago,"13,28,019",9-Jan-11,0.02%
+155,Estonia,"12,86,540",1-Jan-13,0.02%
+156,Mauritius,"12,57,900",3-Jul-11,0.02%
+157,Swaziland,"12,50,000",1-Jul-13,0.02%
+158,Bahrain,"12,34,571",27-Apr-10,0.02%
+159,Timor-Leste,"10,66,409",11-Jul-10,0.02%
+160,Djibouti,"8,73,000",1-Jul-13,0.01%
+161,Cyprus,"8,65,878",31-Dec-12,0.01%
+162,Fiji,"8,58,038",1-Jul-12,0.01%
+163,Reunion (France),"8,21,136",1-Jan-10,0.01%
+164,Guyana,"7,84,894",1-Jul-10,0.01%
+165,Comoros,"7,43,797",1-Jul-13,0.01%
+166,Bhutan,"7,42,610",4-Jan-14,0.01%
+167,Montenegro,"6,20,029",1-Apr-11,0.01%
+168,Macau (China),"5,98,200",30-Sep-13,0.01%
+169,Solomon Islands,"5,81,344",1-Jul-13,0.01%
+170,Western Sahara,"5,67,000",1-Jul-13,0.01%
+171,Luxembourg,"5,37,000",31-Dec-12,0.01%
+172,Suriname,"5,34,189",13-Aug-12,0.01%
+173,Cape Verde,"4,91,875",16-Jun-10,0.01%
+174,Malta,"4,16,055",20-Nov-11,0.01%
+175,Guadeloupe (France),"4,03,355",1-Jan-10,0.01%
+176,Martinique (France),"3,94,173",1-Jan-10,0.01%
+177,Brunei,"3,93,162",20-Jun-11,0.01%
+178,Bahamas,"3,51,461",3-May-10,0.00%
+179,Iceland,"3,25,010",1-Oct-13,0.00%
+180,Maldives,"3,17,280",1-Jul-10,0.00%
+181,Belize,"3,12,971",12-May-10,0.00%
+182,Barbados,"2,74,200",1-Jul-10,0.00%
+183,French Polynesia (France),"2,68,270",22-Aug-12,0.00%
+184,Vanuatu,"2,64,652",1-Jul-13,0.00%
+185,New Caledonia (France),"2,58,958",1-Jul-13,0.00%
+186,French Guiana (France),"2,29,040",1-Jan-10,0.00%
+187,Mayotte (France),"2,12,600",21-Aug-12,0.00%
+188,Samoa,"1,87,820",7-Nov-11,0.00%
+189,Sao Tom and Principe,"1,87,356",13-May-12,0.00%
+190,Saint Lucia,"1,66,526",10-May-10,0.00%
+191,Guam (USA),"1,59,358",1-Apr-10,0.00%
+192,Curacao (Netherlands),"1,50,563",26-Mar-11,0.00%
+193,Saint Vincent and the Grenadines,"1,09,000",1-Jul-13,0.00%
+194,Kiribati,"1,06,461",1-Jul-13,0.00%
+195,United States Virgin Islands (USA),"1,06,405",1-Apr-10,0.00%
+196,Grenada,"1,03,328",12-May-11,0.00%
+197,Tonga,"1,03,036",30-Nov-11,0.00%
+198,Aruba (Netherlands),"1,01,484",29-Sep-10,0.00%
+199,Federated States of Micronesia,"1,01,351",1-Jul-13,0.00%
+200,Jersey (UK),"97,857",27-Mar-11,0.00%
+201,Seychelles,"90,945",26-Aug-10,0.00%
+202,Antigua and Barbuda,"86,295",27-May-11,0.00%
+203,Isle of Man (UK),"84,497",27-Mar-11,0.00%
+204,Andorra,"76,246",1-Jul-12,0.00%
+205,Dominica,"71,293",14-May-11,0.00%
+206,Bermuda (UK),"64,237",20-May-10,0.00%
+207,Guernsey (UK),"63,085",31-Mar-12,0.00%
+208,Greenland (Denmark),"56,370",1-Jan-13,0.00%
+209,Marshall Islands,"56,086",1-Jul-13,0.00%
+210,American Samoa (USA),"55,519",1-Apr-10,0.00%
+211,Cayman Islands (UK),"55,456",10-Oct-10,0.00%
+212,Saint Kitts and Nevis,"54,000",1-Jul-13,0.00%
+213,Northern Mariana Islands (USA),"53,883",1-Apr-10,0.00%
+214,Faroe Islands (Denmark),"48,159",1-Oct-13,0.00%
+215,Sint Maarten (Netherlands),"37,429",1-Jan-10,0.00%
+216,Saint Martin (France),"36,979",1-Jan-10,0.00%
+217,Liechtenstein,"36,942",30-Jun-13,0.00%
+218,Monaco,"36,136",31-Dec-12,0.00%
+219,San Marino,"32,499",30-Nov-13,0.00%
+220,Turks and Caicos Islands (UK),"31,458",25-Jan-12,0.00%
+220,Gibraltar (UK),"30,001",31-Dec-12,0.00%
+221,British Virgin Islands (UK),"29,537",1-Jul-10,0.00%
+222,Aland Islands (Finland),"28,502",31-Dec-12,0.00%
+223,Caribbean Netherlands (Netherlands),"23,296",1-Jan-13,0.00%
+224,Palau,"20,901",1-Jul-13,0.00%
+225,Cook Islands (NZ),"14,974",1-Dec-11,0.00%
+226,Anguilla (UK),"13,452",11-May-11,0.00%
+227,Wallis and Futuna (France),"13,135",1-Jul-13,0.00%
+228,Tuvalu,"11,323",1-Jul-13,0.00%
+229,Nauru,"9,945",30-Oct-11,0.00%
+230,Saint Barthelemy (France),"8,938",1-Jan-10,0.00%
+231,Saint Pierre and Miquelon (France),"6,081",1-Jan-10,0.00%
+232,Montserrat (UK),"4,922",12-May-11,0.00%
+233,"Saint Helena, Ascension and Tristan da Cunha (UK)","4,000",1-Jul-13,0.00%
+234,Svalbard and Jan Mayen (Norway),"2,655",1-Sep-12,0.00%
+235,Falkland Islands (UK),"2,563",15-Apr-12,0.00%
+236,Norfolk Island (Australia),"2,302",9-Aug-11,0.00%
+237,Christmas Island (Australia),"2,072",9-Aug-11,0.00%
+238,Niue (NZ),"1,613",10-Sep-11,0.00%
+239,Tokelau (NZ),"1,411",18-Oct-11,0.00%
+240,Vatican City,800,1-Jul-12,0.00%
+241,Cocos (Keeling) Islands (Australia),550,9-Aug-11,0.00%
+242,Pitcairn Islands (UK),56,1-Feb-13,0.00%
