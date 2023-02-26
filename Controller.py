@@ -13,7 +13,7 @@ class Controller:
         self.exchanges_url = "https://api.exchangerate-api.com/v4/latest"
         self.headers = {
         'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
-        'x-rapidapi-key': "64a2c28d91mshc14956eb7591bdep14ba72jsn15cf4ed73a93"
+        'x-rapidapi-key': "***"
         }
 
         # dictionary of all currencies
@@ -21,7 +21,7 @@ class Controller:
 
     #using this api to extract the country code of a given city
     def getCountryofCity(self, city):
-        api = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=60331d14eeeb60e67604f8f59791a527"
+        api = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=***"
         data = requests.get(api).json()
         try:
             countryCode = data['sys']['country']
@@ -121,7 +121,7 @@ class Controller:
 
     def get_countries(self):
         #using a csv file saved in computer for the complete list of countries in the world
-        df = pd.read_csv('C:/Users/Vio/PycharmProjects/TravelPlanner/list-countries-wolrd.csv')
+        df = pd.read_csv('list-countries-wolrd.csv')
         #using pandas to extract just the column with countries
         countries = df['Country (or dependent territory)'].dropna().tolist()
         c = countries[1:]
@@ -145,7 +145,7 @@ class Controller:
     #search based by city
     def getWeatherForecast(self, c):
         city = c
-        api = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=60331d14eeeb60e67604f8f59791a527"
+        api = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=***"
 
         data = requests.get(api).json()
         try:
