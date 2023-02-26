@@ -27,15 +27,7 @@ if _isMacOS:
         prefix = getattr(sys, 'base_prefix', sys.prefix)
         libtk = joined(prefix, 'lib', libtk)
         dylib = cdll.LoadLibrary(libtk)
-        # getNSView = dylib.TkMacOSXDrawableView is the
-        # proper function to call, but that is non-public
-        # (in Tk source file macosx/TkMacOSXSubwindows.c)
-        # and dylib.TkMacOSXGetRootControl happens to call
-        # dylib.TkMacOSXDrawableView and return the NSView
         _GetNSView = dylib.TkMacOSXGetRootControl
-        # C signature: void *_GetNSView(void *drawable) to get
-        # the Cocoa/Obj-C NSWindow.contentView attribute, the
-        # drawable NSView object of the (drawable) NSWindow
         _GetNSView.restype = c_void_p
         _GetNSView.argtypes = c_void_p,
         del dylib
@@ -47,7 +39,7 @@ if _isMacOS:
 
     C_Key = "Command-"  # shortcut key modifier
 
-else:  # *nix, Xwindows and Windows, UNTESTED
+else:  
 
     libtk = "N/A"
     C_Key = "Control-"  # shortcut key modifier
@@ -160,7 +152,6 @@ class Player(tk.Frame):
         self.parent.minsize(width=502, height=0)
 
         if _isMacOS:
-            # Only tested on MacOS so far. Enable for other OS after verified tests.
             self.is_buttons_panel_anchor_active = True
 
             # Detect dragging of the buttons panel.
@@ -373,24 +364,6 @@ class Player(tk.Frame):
         if self.player:
             t = self.timeVar.get()
             if self.timeSliderLast != int(t):
-                # The timer updates the time slider.
-                # This change causes this rtn (the 'slider has changed' rtn)
-                # to be invoked.  I can't tell the difference between when
-                # the user has manually moved the slider and when the timer
-                # changed the slider.  But when the user moves the slider
-                # tkinter only notifies this rtn about once per second and
-                # when the slider has quit moving.
-                # Also, the tkinter notification value has no fractional
-                # seconds.  The timer update rtn saves off the last update
-                # value (rounded to integer seconds) in timeSliderLast if
-                # the notification time (sval) is the same as the last saved
-                # time timeSliderLast then we know that this notification is
-                # due to the timer changing the slider.  Otherwise the
-                # notification is due to the user changing the slider.  If
-                # the user is changing the slider then I have the timer
-                # routine wait for at least 2 seconds before it starts
-                # updating the slider again (so the timer doesn't start
-                # fighting with the user).
                 self.player.set_time(int(t * 1e3))  # milliseconds
                 self.timeSliderUpdate = time.time()
 
