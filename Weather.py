@@ -25,7 +25,7 @@ async def getweather():
 
 def getWeather(c):
     city = c
-    api = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=60331d14eeeb60e67604f8f59791a527"
+    api = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=***"
 
     data = requests.get(api).json()
     description = data['weather'][0]['description']
